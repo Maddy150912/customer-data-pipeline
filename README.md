@@ -59,12 +59,6 @@ customer-data-pipeline/
 │── sql/
 │ └── data_analysis.sql
 │
-│── output/
-│ └── cleaned_data.csv
-│
-│── docs/
-│ └── sql_output_document.pdf
-│
 │── README.md
 ```
 ---
