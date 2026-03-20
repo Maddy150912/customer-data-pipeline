@@ -41,7 +41,7 @@ Performed business analysis using SQL:
 ## 📊 SQL Output
 SQL query results and outputs are documented in the file:
 
-📄 **sql_output_document.pdf**
+📄 **[SQL Output Document](docs/sql_output_document.pdf)**
 
 This document contains screenshots of query outputs for all business questions.
 
