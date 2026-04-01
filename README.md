@@ -90,9 +90,9 @@ Built a complete data pipeline from raw data to actionable insights, demonstrati
 ---
 ## 👨‍💻 About Me
 
-Hi, I'm Mandar Yangal — a data enthusiast with experience in SQL, Python, and data workflows. I enjoy working across different areas of data including analysis, engineering, and visualization to solve problems and derive insights.
+Hi, I'm Mandar Yangal — a data professional with 2 years of experience in data operations, validation, and backend processes. I have hands-on experience in SQL, Power BI, and Python, and have built end-to-end data projects involving data cleaning, transformation, modeling, and visualization.
 
----
+Currently, I am expanding my skill set by learning Apache Spark (PySpark) on Databricks, focusing on big data processing and data engineering workflows. I am actively seeking opportunities in Data Analytics or Data Engineering roles where I can contribute to data-driven decision-making and continue growing in the data domain.
 
 🔗 **Connect with me:**  
 
